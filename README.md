@@ -17,6 +17,7 @@ txt格式： x y  只能对应一种物体
 
 '''
 img_path : 为所标注的point信息形成的json文件路径 （文件夹）
+
 out_path  : 输出文件夹
 '''
 
